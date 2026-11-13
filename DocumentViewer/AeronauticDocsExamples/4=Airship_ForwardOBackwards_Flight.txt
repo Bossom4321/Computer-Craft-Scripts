@@ -1,0 +1,9 @@
+This is relatively easy, but do keep in mind that propellers tend to weigh a lot, so if it is on the back of your ship, you may wish to attach a tungsten cube of sorts to the front to balance it out.
+
+You will want to use either a andesite propeller, or a propeller bearing.
+
+A andesite propeller is better for smaller ships, as it is easier to build and more compact.
+
+A propeller bearing works similarly to a windmill, in the sense that you have to build a structure of the propeller using sails or symetric sails
+
+Then you just have to give them rotational power forward or backwards depending on which way you want to go, and you are on your way.

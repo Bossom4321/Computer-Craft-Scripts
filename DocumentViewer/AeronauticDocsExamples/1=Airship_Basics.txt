@@ -1,0 +1,7 @@
+So, you want to build an airship do ya? Well allow me to explain some of the basics to you.
+
+First and foremost, you are going to want to plan out an area to build the thing, a dry dock if you will. As airships once assembled are very heavy and cannot be moved by hand.
+
+Some people perfer to give physics to the ship when done, and some prefer to create a single block and the just build on that physic block.
+
+Either way to get a physics ship, you need a physics assembler. If you are assembling a whole structure, you can use either honey glue, or super glue. Honey glue is more recommened as it does not stick to any unwanted items as often.

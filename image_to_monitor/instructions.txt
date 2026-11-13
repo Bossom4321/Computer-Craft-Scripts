@@ -1,0 +1,2 @@
+disk drive on left, monitor_0 anywhere
+store image files on a floppy in the drive on left

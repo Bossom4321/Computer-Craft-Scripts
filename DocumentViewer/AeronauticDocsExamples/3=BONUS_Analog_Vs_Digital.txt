@@ -1,0 +1,7 @@
+Analog Vs Digital signal is an interesting one, as this is useful real life knowlegde. In real life this applies to computers a lot as electrical signals have watts and amps (Analog) and computers are binary/(on/off)/(true/false). The way computers can take analog signals is usually am I reciving a signal of some strength, if yes then on/1 if no then off/0, 
+
+In minecraft sense when something is digital, it usually am I reciving redstone at all, or none at all. You can see this with a repeater as it will give a full strength no matter the input signal strength.
+
+In minecraft when something is analog, it uses the redstones signal strength of 0-15, fun fact a lot of minecraft uses real computer aspects, such as using a 16 scale for a lot of things, like 0-15 is 16 different outputs, or 16 different color wools.
+
+So if something gets stronger with more or less redstone signal it is analog, if an object is just on or off based on redstone it is digital.

@@ -1,0 +1,12 @@
+What goes up, must come down. But first you must do the up part. To achive this you will need two items, balloon blocks, and a hot air burner 
+(note there are other burners but that is for far bigger and advanced ships)
+
+Before continuing an important note is that most blocks in the game are given different weight values, so if you make your ship out of super heavy materials, you will need a lot more ballons and possibly burners on your ship to get and stay airborn. I recommend wood planks for a starter ship, or wool if avalible.
+
+You must create a parachute like shape above the burner, it is not to picky on shape, just make sure that there is enough space of air in the dome shape for the hot air to fill. As a refresher for real physics hot air rises, where cold air sinks, so the goal is to "trap" as much hot air as posible to rise more.
+
+You may run into issues where the burner is too powerful, or you are rising too much. There is two ways to mitigate this.
+
+1: If you look at the blaze burner you should see a square with a number from 5-500m^3, that is the hot air output rate or smth like that. Basically less rises less more rises more.
+
+2: The power of the redstone signal you give the burner determines its strength, recommened way to control this is an analog lever, or throttle lever. (Explanation on analog vs digital included as next note entry #3), more redstone power = stronger burner = stronger lift
